@@ -1,0 +1,61 @@
+{
+  "summary": "QA Engineer with 3 years of experience across web, mobile, and API testing. Built Python + Selenium automation reducing manual effort by ~60%. Skilled with PyTest, Postman, SQL, CI/CD (Jenkins, GitHub Actions), and Agile collaboration to ship higher-quality releases faster.",
+  "skills": [
+    "Manual Testing",
+    "Test Automation",
+    "API Testing",
+    "Regression",
+    "Smoke",
+    "Integration",
+    "Selenium",
+    "PyTest",
+    "Postman",
+    "Cypress",
+    "JUnit",
+    "TestNG",
+    "Jenkins",
+    "GitHub Actions",
+    "GitLab CI/CD",
+    "JIRA",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Python",
+    "Git",
+    "GitHub",
+    "GitLab",
+    "Agile",
+    "Scrum",
+    "SDLC",
+    "Allure Reports",
+    "Test Plans",
+    "Test Cases",
+    "Bug Reports",
+    "REST",
+    "JSON",
+    "OOP"
+  ],
+  "experience_bullets": [
+    "Wrote and maintained Selenium WebDriver + PyTest UI test suites to validate functional flows across platforms.",
+    "Automated smoke and regression suites, cutting manual testing time by ~60%.",
+    "Designed API test collections in Postman validating data accuracy and response codes.",
+    "Created synthetic test data to broaden API and UI coverage and reduce flakiness.",
+    "Implemented CI/CD runs for automated tests with Jenkins and GitHub Actions.",
+    "Authored SQL queries (MySQL/PostgreSQL) for backend validation and data integrity checks.",
+    "Collaborated closely with developers in Agile sprints to define acceptance criteria and test coverage.",
+    "Logged, prioritized, and tracked defects in JIRA; coordinated fast turnaround with dev teams.",
+    "Performed regression, smoke, and system testing for release quality; reduced post-release bugs by ~30%.",
+    "Built reusable utilities and improved framework modularity to speed up future test creation.",
+    "Practiced continuous testing by running PyTest suites on each code change.",
+    "Used Git workflows (branches/PRs) to version and review test code."
+  ],
+  "project_bullets": [
+    "Automated end-to-end tests for an e-commerce demo (login, search, cart, checkout) using Selenium + PyTest with Allure reports.",
+    "Integrated tests with GitHub Actions; enabled parallelism and caching to reduce runtime by ~40%.",
+    "Developed a Python-based API and UI testing framework with Page Object Model to improve maintainability.",
+    "Executed load tests with JMeter/BlazeMeter to validate >1,000 concurrent users under <2s response times; identified and helped resolve API bottlenecks."
+  ],
+  "education_lines": [
+    "B.S., Computer Science — Strayer University"
+  ]
+}
